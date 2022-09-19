@@ -1,0 +1,28 @@
+#div_lista {
+  float: left;
+}
+
+#map {
+  float: right;
+  height: 510px;
+  width: 50%;
+  margin-right: 35px;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.cabecalho {
+  background: rgb(14, 13, 13);
+  padding: 1rem;
+  text-align: center;
+  color: #fdfdfd;
+  font-weight: bold;
+  font-size: 1.25rem;
+}
+
+.cabecalho:hover {
+  cursor: pointer;
+}
